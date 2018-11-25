@@ -1,4 +1,4 @@
-# Engi's Kitchen Simulation
+# Kitchen Simulation
 Aksi - aksi yang dapat mengurangi energi Chef, masing - masing sebanyak 1 buah, adalah : 
   1) membeli bahan mentah ke supermarket;
   2) membuat bahan olahan;
